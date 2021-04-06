@@ -1,5 +1,5 @@
 # BackToThePast
-Bu repo [Patika.dev](hhttps://www.patika.dev/) Front End Web Development Html eğitimi 3.Ödev Google Ana Sayfasını Tasarlamak için oluşturduğumuz repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Patika.dev](https://www.patika.dev/) Front End Web Development Html eğitimi 3.Ödev Google Ana Sayfasını Tasarlamak için oluşturduğumuz repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 Aşağıda bulunan görselin Html ile tasarımı yapılmıştır. [Google 1998](https://web.archive.org/web/19981202230410if_/http://www.google.com/) linkinden Google'ın ilk versiyonu nasılmış görebilirsiniz.
 
